@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+main {
+    display: flex;
+    background: #333;
+    justify-content: center;
+    margin-top: 45vh;
+}
+
+figure, figure img {
+    border-radius: 15px;
+}
+
+.youtube-logo img,
+.pluto-logo img {
+    width: 100px;
+}
+
+.pluto-logo {
+    height: 80px;
+    background-color: black;
+    padding-top: 20px;
+}
